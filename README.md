@@ -9,5 +9,6 @@
 
 **als ik 2 sterretjes zet dan word het sterk gedrukt**
 
-# hier zet ik een plaatje neer
+[Dit is de link naar een plaatje](https://i.kym-cdn.com/entries/icons/mobile/000/021/311/free.jpg)
+# En dit is het plaatje.
 ![alt text](https://i.kym-cdn.com/entries/icons/mobile/000/021/311/free.jpg)
